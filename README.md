@@ -1,3 +1,2 @@
-# English-Learning-Note
-My English Learning notes.
-All files licensed under CC-BY-NC-SA license.
+# License
+About the license please read the license file in this directory.
