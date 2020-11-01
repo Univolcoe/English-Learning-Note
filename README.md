@@ -1,3 +1,3 @@
 # English-Learning-Note
-My English Learning notes.
-All files licensed under CC-BY-NC-SA license.
+
+My English Learning notes. The note is write via Chinese.
